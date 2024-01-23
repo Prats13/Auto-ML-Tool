@@ -31,6 +31,8 @@ Benefits of using TPOT AutoML include:
     4. Scalable: TPOT can scale to large datasets and distributed environments, making it suitable for big data applications. 
     5. Open-source: TPOT is open-source and free to use, making it accessible to a wide range of users and organizations. 
 
+![image](https://github.com/Prats13/Auto-ML-Tool/assets/93511663/2235ed2a-4fa3-4eef-a4f6-277c81181f5a)
+
 
 **Use Case: Customer Churn Prediction**
 Let's consider a use case where you have a dataset related to customer churn in a subscription-based service, and you want to predict whether a customer is likely to churn or not. This is a common business problem, and automating the machine learning pipeline can be beneficial in such scenarios.
